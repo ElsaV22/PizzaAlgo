@@ -1,3 +1,5 @@
 Call Dominoes
 Add cheese
 Add beef
+Pay for order
+Deliver to door
